@@ -40,11 +40,14 @@ a:hover {
 .two-buttons{ 
     padding: 10px 20px 10px 20px; 
     border-width: 0;
+    border-radius: 5px;
     background-color: #4e53582d;
 }
 
 .two-buttons:hover{
     cursor: pointer;
+    border-width: 1px;
+    box-shadow: 0 2px 1px;
 }
 
 .search-bar{ 

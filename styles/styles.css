@@ -37,9 +37,9 @@ a:hover {
 }
 
 .search-bar{ 
-    width: 450px;
+    width: 600px;
     border-radius: 25px;
-    height: 30px;
+    height: 40px;
     border-width: 1px;
     border-color: lightgray;
 }

@@ -1,1 +1,1 @@
-My first webpage! And issa clone!
+Biggest struggle was the icons in the search bar, still having trouble with the way they move on smaller window sizes. Learned that there is many different ways to achieve the same / similar results. Made good use of git, constantly committing. 

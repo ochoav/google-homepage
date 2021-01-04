@@ -17,12 +17,20 @@ a:hover {
     text-decoration: underline;
 }
 
+.top-nav {
+    padding-top: 10px;
+}
+
 .top-nav li{
     /*Inline block allows setting width and height, but elements can
     still sit next to each other. Creates nav links.*/
-    display: inline-block;
+    /*End up using inline because I am not adjusting width/height
+    nor padding/margin top bottom!*/
+    display: inline;
     padding-left: 15px;
+    font-size: small;
 }
+
 .main-area{
     padding: 100px;
     display: flex;

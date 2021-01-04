@@ -41,7 +41,8 @@ a:hover {
     border-radius: 25px;
     height: 40px;
     border-width: 1px;
-    border-color: lightgray;
+    border-color: rgb(199, 188, 188);
+    border-style: solid;
 }
 
 .search-bar:hover{
